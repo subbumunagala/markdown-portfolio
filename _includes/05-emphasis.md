@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Skills:
+
+**Domain**
+1. Insurance
+2. Risk Management
